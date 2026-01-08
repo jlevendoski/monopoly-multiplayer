@@ -1,0 +1,3 @@
+"""
+Monopoly client package.
+"""
